@@ -1,6 +1,6 @@
 ### I’m just Ordinary Data Scientist... ^^ 👋
 
-💬 Biotechnology + DigitalMarketing + DataScience + LifeStyle + Photography = Boyd BigDataRPG! 🐍
+💬 キリト - Link Start !! 🐍
 
 🎓 KU69 Biot30 DPU-MSE3\
 💼 Digital Marketer | Data Scientist | Kaggler\
@@ -17,17 +17,22 @@ https://bigdatarpg.com/about/
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=BigDataRPG&count_private=true&include_all_commits=true&theme=cobalt" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigDataRPG&layout=compact&theme=cobalt" />
 </div>
-<!--
-**BigDataRPG/BigDataRPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<br>
+<br>
+
+
+- 🔭 I’m currently working on ..Super AI Engineer
+- 🌱 I’m currently learning ..AI
+- 👯 I’m looking to collaborate ..on You All 
+- 🤔 I’m looking for help with ..Data Science and Machine Learning
+- 💬 Ask me about ..Everything
+- 📫 How to reach me: ..[千夜一夜物語 !](https://bigdatarpg.com/about/)
+- 😄 Pronouns: ..スターバースト・ストリーム !!
+- ⚡ Fun fact: ..!?
+
