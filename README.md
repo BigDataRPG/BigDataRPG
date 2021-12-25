@@ -27,8 +27,8 @@ https://bigdatarpg.com/about/
 <br>
 
 
-- 🔭 I’m currently working on ..Super AI Engineer
-- 🌱 I’m currently learning ..AI
+- 🔭 I’m currently working on ..Illustrator | Digital Art
+- 🌱 I’m currently learning ..Blockchain DeFi NFT and Full Stack
 - 👯 I’m looking to collaborate ..on You All 
 - 🤔 I’m looking for help with ..Data Science and Machine Learning
 - 💬 Ask me about ..Everything
