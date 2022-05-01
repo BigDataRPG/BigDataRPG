@@ -5,7 +5,7 @@
 🎓 KU69 Biot30 DPU-MSE3\
 💼 Digital Marketer | Data Scientist | Kaggler\
 📷 SonyA6300 | LifeStyle | Food | Story-telling\
-💻 Python | R | SQL | SPARK
+💻 Python | Julia | R | SQL | SPARK
 
 https://bigdatarpg.com/about/
 
