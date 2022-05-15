@@ -7,7 +7,7 @@
 📷 SonyA6300 | LifeStyle | Food | Story-telling\
 💻 Python | Julia | R | SQL | SPARK
 
-https://bigdatarpg.com/about/
+https://bigdatarpg.com/about-me/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BigDataRPG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
