@@ -5,7 +5,7 @@
 🎓 KU69 Biot30 DPU-MSE3\
 💼 Digital Marketer | Data Scientist | Kaggler\
 📷 SonyA6300 | LifeStyle | Food | Story-telling\
-💻 Python | Julia | R | SQL | SPARK
+💻 Python | Julia | SQL | SPARK
 
 https://bigdatarpg.com/about-me/
 
@@ -28,11 +28,11 @@ https://bigdatarpg.com/about-me/
 
 
 - 🔭 I’m currently working on ..Illustrator | Digital Art
-- 🌱 I’m currently learning ..Blockchain DeFi NFT and Full Stack
+- 🌱 I’m currently learning ..MLOps, Game Dev
 - 👯 I’m looking to collaborate ..on You All 
 - 🤔 I’m looking for help with ..Data Science and Machine Learning
 - 💬 Ask me about ..Everything
-- 📫 How to reach me: ..[千夜一夜物語 !](https://bigdatarpg.com/about/)
+- 📫 How to reach me: ..[千夜一夜物語 !](https://bigdatarpg.com/about-me/)
 - 😄 Pronouns: ..スターバースト・ストリーム !!
 - ⚡ Fun fact: ..!?
 
