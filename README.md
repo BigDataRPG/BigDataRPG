@@ -1,4 +1,12 @@
-### I’m just Ordinary Data Scientist... ^^ 👋
+## My Journey, Boyd ^^ 👋
+- 2013: Service Attendant
+- 2014-2015: Production Supervisor
+- 2016-2017: Digital Marketer
+- 2017-2020: Data Scientist
+- 2021-2024: Senior Data Scientist
+- 2024: Machine Learning Engineer
+
+
 
 💬 キリト - Link Start !! 🐍
 
@@ -28,9 +36,9 @@ https://bigdatarpg.com/about-me/
 
 
 - 🔭 I’m currently working on ..Illustrator | Digital Art
-- 🌱 I’m currently learning ..MLOps, Game Dev
+- 🌱 I’m currently learning ..LLMs, AI Architectures, Game Dev
 - 👯 I’m looking to collaborate ..on You All 
-- 🤔 I’m looking for help with ..Data Science and Machine Learning
+- 🤔 I’m looking for collaborating ..LLMs Community 
 - 💬 Ask me about ..Everything
 - 📫 How to reach me: ..[千夜一夜物語 !](https://bigdatarpg.com/about-me/)
 - 😄 Pronouns: ..スターバースト・ストリーム !!
