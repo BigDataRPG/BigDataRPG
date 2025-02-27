@@ -10,7 +10,9 @@
 
 💬 キリト - Link Start !! 🐍
 
+
 🎓 KU69 Biot30 DPU-MSE3\
+❄️ Skiing | Snowboarding | Ice-skating
 💼 Digital Marketer | Data Scientist | Kaggler\
 📷 SonyA6300 | LifeStyle | Food | Story-telling\
 💻 Python | Rust | Julia | SQL | SPARK
