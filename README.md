@@ -5,6 +5,7 @@
 - 2017-2020: Data Scientist
 - 2021-2024: Senior Data Scientist
 - 2024: Machine Learning Engineer
+- 2025: AI/Agentic Engineer
 
 
 
