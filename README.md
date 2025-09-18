@@ -1,49 +1,61 @@
 ## My Journey, Boyd ^^ 👋
-- 2013: Service Attendant
-- 2014-2015: Production Supervisor
-- 2016-2017: Digital Marketer
-- 2017-2020: Data Scientist
-- 2021-2024: Senior Data Scientist
-- 2024: Machine Learning Engineer
-- 2025: AI/Agentic Engineer
 
+- **2013**: Service Attendant  
+- **2014–2015**: Production Supervisor  
+- **2016–2017**: Digital Marketer  
+- **2017–2020**: Data Scientist  
+- **2021–2024**: Senior Data Scientist  
+- **2024**: Machine Learning Engineer  
+- **2025**: Lead AI / Agentic Engineer 🚀  
 
+💬 キリト - *Link Start !!* 🐍
 
-💬 キリト - Link Start !! 🐍
+---
 
+### 🎓 Background & Interests
 
-🎓 KU69 Biot30 DPU-MSE3\
-❄️ Skiing | Snowboarding | Ice-skating\
-💼 Digital Marketer | Data Scientist | Kaggler\
-📷 SonyA6300 | LifeStyle | Food | Story-telling\
-💻 Python | Rust | Julia | SQL | SPARK
+- 🎓 **KU69 Biot30 | DPU-MSE3**  
+- ❄️ Skiing | Snowboarding | Ice-skating  
+- 💼 Digital Marketer → Data Scientist → Kaggler  
+- 📷 Sony A6300 | Lifestyle | Food | Story-telling  
+- 💻 Python | Rust | Julia | SQL | Spark  
 
-https://bigdatarpg.com/about-me/
+---
+
+### 🌐 Connect with me
+
+- 🌍 [Website / About Me](https://bigdatarpg.com/about-me/)  
+- 📘 [Facebook](https://www.facebook.com/bigdatarpg)  
+- ▶️ [YouTube](https://youtube.com/c/BigDataRPG)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/boyd-sorratat)  
+
+---
+
+### 🏆 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BigDataRPG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
+### 📊 GitHub Stats
+
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=BigDataRPG&count_private=true&include_all_commits=true&theme=cobalt" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigDataRPG&layout=compact&theme=cobalt" />
 </div>
-<br>
-<br>
-<br>
 
+<br clear="both" />
 
 ---
-<br>
-<br>
 
+### 🌱 Current Focus
 
-- 🔭 I’m currently working on ..Illustrator | Digital Art
-- 🌱 I’m currently learning ..LLMs, AI Architectures, Game Dev
-- 👯 I’m looking to collaborate ..on You All 
-- 🤔 I’m looking for collaborating ..LLMs Community 
-- 💬 Ask me about ..Everything
-- 📫 How to reach me: ..[千夜一夜物語 !](https://bigdatarpg.com/about-me/)
-- 😄 Pronouns: ..スターバースト・ストリーム !!
-- ⚡ Fun fact: ..!?
+- 🔭 Working on: **Illustration | Digital Art**  
+- 🌱 Learning: **LLMs, AI Architectures, Game Dev**  
+- 👯 Collaborating on: **AI / Agentic Projects & Community**  
+- 💬 Ask me about: *Anything — I love sharing knowledge!*  
+- 📫 Reach me: [千夜一夜物語 !](https://bigdatarpg.com/about-me/)  
+- 😄 Motto: スターバースト・ストリーム !!  
+- ⚡ Fun fact: I mix RPG storytelling with AI engineering 🎮🤖  
 
+---
