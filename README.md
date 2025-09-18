@@ -16,7 +16,7 @@
 
 - 🎓 **KU69 Biot30 | DPU-MSE3**  
 - ❄️ Skiing | Snowboarding | Ice-skating  
-- 💼 Digital Marketer → Data Scientist → Kaggler  
+- 💼 Digital Marketer → Data Scientist → AI Engineer  
 - 📷 Sony A6300 | Lifestyle | Food | Story-telling  
 - 💻 Python | Rust | Julia | SQL | Spark  
 
