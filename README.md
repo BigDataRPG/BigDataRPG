@@ -6,7 +6,8 @@
 - **2017–2020**: Data Scientist  
 - **2021–2024**: Senior Data Scientist  
 - **2024**: Machine Learning Engineer  
-- **2025**: Lead AI / Agentic Engineer 🚀  
+- **2025**: Lead AI / Agentic Engineer 🚀
+- **2026**: TBA ... 🚀 
 
 💬 キリト - *Link Start !!* 🐍
 
